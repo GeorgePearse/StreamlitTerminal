@@ -8,3 +8,5 @@ hisory | grep <command>
 . And how things like this can be combined
 
 awk  
+
+Use the tool sh to do it.
